@@ -5,7 +5,7 @@ description: "Explore the world with me! Travel experiences, tips, and vlogs fro
 logo: "assets/images/ct-logo-s.png"
 favicon: "assets/images/ct-logo-s.png"
 baseurl: "" # Leave empty for GitHub Pages
-google_analytics: "" # Add your tracking ID if needed
+google_analytics: "G-TX7TY40YCT" # Add your tracking ID if needed
 disqus: "" # Add your Disqus shortname if using comments
 mailchimp-list: "" # Add your Mailchimp subscribe URL if using
 
